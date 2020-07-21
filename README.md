@@ -1,6 +1,4 @@
-### Hi there 👋
-
-![Play Chess](https://github.com/cometkim/cometkim/blame/master/chess-test.svg)
+Nothing here yet...
 
 <!--
 **cometkim/cometkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
